@@ -5,11 +5,11 @@
 
 ###Вот что я умею:  
 
-[Python](https://github.com/OksanaGlazkova/Python)
-[Numpy-pandas](https://github.com/OksanaGlazkova/Numpy-pandas)
-[DS & ML](https://github.com/OksanaGlazkova/DS-ML)
-[GCP](https://github.com/OksanaGlazkova/GCP) (https://github.com/OksanaGlazkova/Data-Proc-GCS)
-[DS & ML](https://github.com/OksanaGlazkova/DS-ML)
+Python [Домашние задания](https://github.com/OksanaGlazkova/Python)  
+Numpy-pandas [Домашние задания](https://github.com/OksanaGlazkova/Numpy-pandas)  
+DS & ML [Домашние задания](https://github.com/OksanaGlazkova/DS-ML)  
+GCP [Домашние задания](https://github.com/OksanaGlazkova/GCP) [Домашние задания](https://github.com/OksanaGlazkova/Data-Proc-GCS)  
+DS & ML [DS & ML](https://github.com/OksanaGlazkova/DS-ML)
 [DS & ML](https://github.com/OksanaGlazkova/DS-ML)
 [DS & ML](https://github.com/OksanaGlazkova/DS-ML)
 
