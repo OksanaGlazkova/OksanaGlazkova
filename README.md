@@ -1,8 +1,8 @@
 
-**Диплом:**
+**Диплом:**  
 [Дата-инженер с нуля до PRO](https://github.com/OksanaGlazkova/Data-engineer)
 
-**Сертификаты:**
+**Сертификаты:**  
 [SQL](https://github.com/OksanaGlazkova/SQL_certificate)  
 [DWH](https://github.com/OksanaGlazkova/Certification_DWH-Data-Warehouse-)  
 [BIC](https://github.com/OksanaGlazkova/BIC_certificate)  
