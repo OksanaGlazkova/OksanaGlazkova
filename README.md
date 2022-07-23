@@ -22,8 +22,8 @@
 [Data-Proc-GCS](https://github.com/OksanaGlazkova/Data-Proc-GCS)  
 [Spark-Streaming, Kafka](https://github.com/OksanaGlazkova/Spark-Streaming)  
 [DWH в облаке](https://github.com/OksanaGlazkova/-DWH-)  
-[Data_Governance](https://github.com/OksanaGlazkova/Data_Governance) 
-[Дипломный проект](https://github.com/OksanaGlazkova/Diplom)
+[Data_Governance](https://github.com/OksanaGlazkova/Data_Governance)   
+[Дипломный проект](https://github.com/OksanaGlazkova/Diplom)  
 
 ***Диплом:***  
 [Дата-инженер с нуля до PRO](https://github.com/OksanaGlazkova/Data-engineer)  
