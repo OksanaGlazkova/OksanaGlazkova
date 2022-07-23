@@ -1,4 +1,7 @@
 
+
+[Резюме](https://docs.google.com/document/d/1C7_OKw-uluCkuv-zQltJ15DRAqSmm0Du2J0aE5vD48Y/edit)
+
 **Диплом:**  
 [Дата-инженер с нуля до PRO](https://github.com/OksanaGlazkova/Data-engineer)
 
