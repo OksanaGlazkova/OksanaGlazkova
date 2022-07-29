@@ -1,7 +1,7 @@
 **Привет!**
 
 Я Оксана Глазкова, недавно закончила курс Нетологии по профессии Дата-инженера! ☺  
-Моё [резюме](https://docs.google.com/document/d/1C7_OKw-uluCkuv-zQltJ15DRAqSmm0Du2J0aE5vD48Y/edit)  
+Моё [резюме](https://docs.google.com/document/d/1Up69k9tj_JMrY0SXDM1YlAmSpDpGr2pAqDZBgorPA_Y/edit#)  
 
 ***Вот что я умею:***  
 
