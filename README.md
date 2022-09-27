@@ -1,9 +1,10 @@
-**Привет!**
+**Hi!**
 
-Я Оксана Глазкова, недавно закончила курс Нетологии по профессии Дата-инженера! ☺  
-Моё [резюме](https://docs.google.com/document/d/1Up69k9tj_JMrY0SXDM1YlAmSpDpGr2pAqDZBgorPA_Y/edit#)  
+Я Оксана Глазкова, недавно закончила курс Нетологии по профессии Дата-инженера!
+I am Oksana Glazkova, recently graduated from a course of Netology by profession as a Data engineer! ☺  
+[resume](https://docs.google.com/document/d/1Up69k9tj_JMrY0SXDM1YlAmSpDpGr2pAqDZBgorPA_Y/edit#)  
 
-***Вот что я умею:***  
+***Вот что я умею|That's what I can do:***  
 
 [Python](https://github.com/OksanaGlazkova/Python)  
 [Numpy-pandas](https://github.com/OksanaGlazkova/Numpy-pandas)  
@@ -25,8 +26,8 @@
 [Data_Governance](https://github.com/OksanaGlazkova/Data_Governance)   
 [Дипломный проект](https://github.com/OksanaGlazkova/Diplom)  
 
-***Диплом:***  
-[Дата-инженер с нуля до PRO](https://github.com/OksanaGlazkova/Data-engineer)  
+***Диплом|Diploma:***  
+[Дата-инженер с нуля до PRO|Data engineer from scratch to PRO](https://github.com/OksanaGlazkova/Data-engineer)  
 
 ***Сертификаты:***   
 [SQL](https://github.com/OksanaGlazkova/SQL_certificate)  
@@ -35,9 +36,9 @@
 [Python](https://github.com/OksanaGlazkova/Python_certificate)  
 [NumPy-pandas](https://github.com/OksanaGlazkova/certificate_NumPy-pandas)  
 [DLH (Data Lake&Hadoop)](https://github.com/OksanaGlazkova/certificate_DLH-Data-Lake-Hadoop-)  
-[Продвинутые методы работы с данными](https://github.com/OksanaGlazkova/certificate_Advanced-methods-of-working-with-data)  
-[Работа с потоковыми данными](https://github.com/OksanaGlazkova/Certification_work-with-streaming-data)  
-[Работа с данными в облаке](https://github.com/OksanaGlazkova/Certification_working-with-data-in-the-cloud)  
-[Введение в DS&ML](https://github.com/OksanaGlazkova/Certification_DS-ML)  
+[Продвинутые методы работы с данными|Advanced methods of working with data](https://github.com/OksanaGlazkova/certificate_Advanced-methods-of-working-with-data)  
+[Работа с потоковыми данными|Working with streaming data](https://github.com/OksanaGlazkova/Certification_work-with-streaming-data)  
+[Работа с данными в облаке|Working with data in the cloud](https://github.com/OksanaGlazkova/Certification_working-with-data-in-the-cloud)  
+[Введение в DS&ML|Introduction to DS&ML](https://github.com/OksanaGlazkova/Certification_DS-ML)  
 [DevOps-MLOps](https://github.com/OksanaGlazkova/Certification_DevOps-MLOps)  
 
