@@ -29,7 +29,7 @@ I am Oksana Glazkova, recently graduated from a course of Netology by profession
 ***Diploma|Диплом:***  
 [Data engineer from scratch to PRO|Дата-инженер с нуля до PRO](https://github.com/OksanaGlazkova/Data-engineer)  
 
-***Сертификаты:***   
+***Certificates|Сертификаты:***   
 [SQL](https://github.com/OksanaGlazkova/SQL_certificate)  
 [DWH](https://github.com/OksanaGlazkova/Certification_DWH-Data-Warehouse-)  
 [BIC](https://github.com/OksanaGlazkova/BIC_certificate)  
