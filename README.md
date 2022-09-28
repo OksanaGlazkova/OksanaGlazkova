@@ -43,3 +43,5 @@ I am Oksana Glazkova, recently graduated from a course of Netology by profession
 [Working with data in the cloud|Работа с данными в облаке](https://github.com/OksanaGlazkova/Certification_working-with-data-in-the-cloud)  
 [Introduction to DS&ML|Введение в DS&ML](https://github.com/OksanaGlazkova/Certification_DS-ML)  
 [DevOps-MLOps](https://github.com/OksanaGlazkova/Certification_DevOps-MLOps)  
+
+*All original documents are in Russian. In English are presented for review.|Все оригиналы документов на русском языке. На английском представлены для ознакомления.
