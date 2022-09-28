@@ -29,6 +29,9 @@ I am Oksana Glazkova, recently graduated from a course of Netology by profession
 ***Diploma|Диплом:***  
 [Data engineer from scratch to PRO|Дата-инженер с нуля до PRO](https://github.com/OksanaGlazkova/Data-engineer)  
 
+***Letter of recommendation|Рекомендательное письмо:***
+[Letter of recommendation|Рекомендательное письмо](https://github.com/OksanaGlazkova/Letter-of-recommendation-/blob/main/README.md)
+
 ***Certificates|Сертификаты:***   
 [SQL](https://github.com/OksanaGlazkova/SQL_certificate)  
 [DWH](https://github.com/OksanaGlazkova/Certification_DWH-Data-Warehouse-)  
@@ -41,4 +44,3 @@ I am Oksana Glazkova, recently graduated from a course of Netology by profession
 [Working with data in the cloud|Работа с данными в облаке](https://github.com/OksanaGlazkova/Certification_working-with-data-in-the-cloud)  
 [Introduction to DS&ML|Введение в DS&ML](https://github.com/OksanaGlazkova/Certification_DS-ML)  
 [DevOps-MLOps](https://github.com/OksanaGlazkova/Certification_DevOps-MLOps)  
-
