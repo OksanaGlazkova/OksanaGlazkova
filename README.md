@@ -2,7 +2,8 @@
 
 I am Oksana Glazkova, recently graduated from a course of Netology by profession as a Data engineer! ☺ 
 Я Оксана Глазкова, недавно закончила курс Нетологии по профессии Дата-инженера!
-[Resume](https://docs.google.com/document/d/1Up69k9tj_JMrY0SXDM1YlAmSpDpGr2pAqDZBgorPA_Y/edit#)  
+[Резюме_рус](https://docs.google.com/document/d/1Up69k9tj_JMrY0SXDM1YlAmSpDpGr2pAqDZBgorPA_Y/edit#)
+[Resume_eng](https://docs.google.com/document/d/1wDT-cDMjTdfzVQnCjUUglQ56yNk72QsXHs_uOnk4lyg/edit)
 
 ***That's what I can do|Вот что я умею:***  
 
