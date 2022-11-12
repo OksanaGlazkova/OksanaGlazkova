@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/AbsmwIUO7Ac4bgGCxB" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/heart-matrix-the-AbsmwIUO7Ac4bgGCxB">via GIPHY</a></p>"/>
+  <img src="<iframe src="https://giphy.com/embed/AbsmwIUO7Ac4bgGCxB" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/heart-matrix-the-AbsmwIUO7Ac4bgGCxB">via GIPHY</a></p>" width="100"/>
 </div>
 
 I recently graduated from a course of Netology by profession as a Data engineer! ☺   
