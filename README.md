@@ -1,10 +1,6 @@
 <h1 align="center">Hi I'm <a href="https://daniilshat.ru/" target="_blank">Oksana</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<div id="header" align="center">
-  <img src="https://giphy.com/embed/AbsmwIUO7Ac4bgGCxB" width="100"/>
-</div>
-
 I recently graduated from a course of Netology by profession as a Data engineer! ☺   
 Я Оксана Глазкова, недавно окончила курс Нетологии по профессии Дата-инженера!  
 [Резюме_рус](https://docs.google.com/document/d/1Up69k9tj_JMrY0SXDM1YlAmSpDpGr2pAqDZBgorPA_Y/edit#)  
