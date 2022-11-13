@@ -7,7 +7,6 @@ I recently graduated from a course of Netology by profession as a Data engineer!
 [Resume_eng](https://docs.google.com/document/d/1wDT-cDMjTdfzVQnCjUUglQ56yNk72QsXHs_uOnk4lyg/edit)
 
 ***That's what I can do|Вот что я умею:***  
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
 [Python](https://github.com/OksanaGlazkova/Python)  
 [Numpy-pandas](https://github.com/OksanaGlazkova/Numpy-pandas)  
