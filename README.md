@@ -47,3 +47,6 @@ I recently graduated from a course of Netology by profession as a Data engineer!
 [DevOps-MLOps](https://github.com/OksanaGlazkova/Certification_DevOps-MLOps)  
 
 *All original documents are in Russian. In English are presented for review.|Все оригиналы документов на русском языке. На английском представлены для ознакомления.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
