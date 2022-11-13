@@ -48,5 +48,5 @@ I recently graduated from a course of Netology by profession as a Data engineer!
 
 *All original documents are in Russian. In English are presented for review.|Все оригиналы документов на русском языке. На английском представлены для ознакомления.
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/AbsmwIUO7Ac4bgGCxB/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/AbsmwIUO7Ac4bgGCxB/giphy.gif" width="300"/>
 </div>
