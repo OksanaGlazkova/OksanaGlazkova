@@ -3,7 +3,7 @@
 
 I recently graduated from a course of Netology by profession as a Data engineer! ☺   
 
-<h1 align="center">Вставить текст</a> height="32"/></h1>
+<h1 align="center">Вставить текст</a></h1>
 
 
 Я Оксана Глазкова, недавно окончила курс Нетологии по профессии Дата-инженера!  
