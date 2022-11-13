@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Oksana</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h1 align="center">Вставить текст</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 I recently graduated from a course of Netology by profession as a Data engineer! ☺   
 Я Оксана Глазкова, недавно окончила курс Нетологии по профессии Дата-инженера!  
