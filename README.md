@@ -1,8 +1,8 @@
 <h1 align="center">Hi I'm Oksana</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-I recently graduated from a course of Netology by profession as a Data engineer! ☺   
-Я Оксана Глазкова, недавно окончила курс Нетологии по профессии Дата-инженера!  
+I graduated from a course of Netology by profession as a Data engineer! ☺   
+Я Оксана Глазкова, окончила курс Нетологии по профессии Дата-инженера!  
 [Резюме_рус](https://docs.google.com/document/d/1Up69k9tj_JMrY0SXDM1YlAmSpDpGr2pAqDZBgorPA_Y/edit#)  
 [Resume_eng](https://docs.google.com/document/d/1wDT-cDMjTdfzVQnCjUUglQ56yNk72QsXHs_uOnk4lyg/edit)
 
