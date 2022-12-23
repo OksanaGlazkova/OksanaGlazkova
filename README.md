@@ -28,12 +28,10 @@ I graduated from a course of Netology by profession as a Data engineer! ☺
 [Data_Governance](https://github.com/OksanaGlazkova/Data_Governance)   
 [Graduation project|Дипломный проект](https://github.com/OksanaGlazkova/Diplom)  
 
-***Diploma|Диплом:***  
+***The diploma|Диплом:***  
 [Data engineer from scratch to PRO|Дата-инженер с нуля до PRO](https://github.com/OksanaGlazkova/Data-engineer)  
 
-***[Letter of recommendation|Рекомендательное письмо:](https://github.com/OksanaGlazkova/Letter-of-recommendation-/blob/main/README.md)***
-
-***Certificates|Сертификаты:***   
+***The certificates|Сертификаты:***   
 [SQL](https://github.com/OksanaGlazkova/SQL_certificate)  
 [DWH](https://github.com/OksanaGlazkova/Certification_DWH-Data-Warehouse-)  
 [BIC](https://github.com/OksanaGlazkova/BIC_certificate)  
